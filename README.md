@@ -28,7 +28,7 @@
    ![config_dir](./image/config_dir.png)
 
 6. 编译项目，我使用的编译环境为Desktop Qt 5.15.2 MsVc2019 64bit
-7. 运行
+7. 运行，运行前请将[OpenFace_2.2.0](https://github.com/TadasBaltrusaitis/OpenFace/releases/tag/OpenFace_2.2.0)安装目录下的库文件移动到可执行文件所在目录，缺什么就移动什么，否则会报错
 
 
 # 版权
