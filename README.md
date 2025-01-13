@@ -1,4 +1,4 @@
-﻿# 适用与Qt的OpenFace
+﻿# 适用于Qt的OpenFace
 
 探索利用OpenFace进行Qt桌面应用开发的方法。
 
