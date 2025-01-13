@@ -10,7 +10,7 @@
 
 ### 准备工作
 
-1. 建议安装[OpenFace_2.2.0](https://github.com/TadasBaltrusaitis/OpenFace/releases/tag/OpenFace_2.2.0)已获取所需要的库文件，
+1. 建议安装[OpenFace_2.2.0](https://github.com/TadasBaltrusaitis/OpenFace/releases/tag/OpenFace_2.2.0)以获取所需要的库文件，
 建议阅读OpenFace的[wiki](https://github.com/TadasBaltrusaitis/OpenFace/wiki)
 2. git下载[OpenFace](https://github.com/TadasBaltrusaitis/OpenFace/tree/master)仓库
     ```bash
